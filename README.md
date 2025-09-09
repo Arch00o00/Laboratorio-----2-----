@@ -53,4 +53,3 @@ Desarrollado por [Arch00o00](https://github.com/Arch00o00) para el curso de prog
 
 ---
 
-Si tienes dudas o sugerencias, puedes abrir una *issue* en este repositorio.
